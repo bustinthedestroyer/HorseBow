@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2880223477
+    locked: 0
+  - name: NearGroup
+    uniqueID: 2877113801
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3685142197
+    locked: 0
+  - name: Stage
+    uniqueID: 3090423143
+    locked: 0
